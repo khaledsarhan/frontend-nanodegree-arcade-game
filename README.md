@@ -13,6 +13,10 @@ Defeating Enemies
 
 When the player is hit by an enemy, a game life is deducted and the player is sent back to home position on the board.
 
+How to Win
+==========
+Once the player reaches the water the game is won.
+
 Learning Resources
 =================
 
